@@ -2,9 +2,13 @@
 //  ViewController.swift
 //  ChangeColor
 //
-//  Created by user150447 on 1/16/19.
+//  Created by salil biswas on 2/14/19.
 //  Copyright © 2019 user150447. All rights reserved.
 //
+// This app has one button. Everytime a user clicks the button, it changes the background
+// color. There are 10 colors in the colors array.
+// The color is changed to first color then second, third and so on up to 10th.
+// If the button is clicked again, the color changes back to first then second and so on.
 
 import UIKit
 
